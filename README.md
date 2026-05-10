@@ -54,3 +54,5 @@ This software implements a **NanoGPT** (a small Transformer-based language model
 - `model.py`: The GPT model architecture (PyTorch).
 - `train.py`: Training loop and logic.
 - `utils.py`: Data parsing and tokenization utilities.
+
+# NEW VERSION COMING SOON!
