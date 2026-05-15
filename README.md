@@ -158,9 +158,9 @@ The dev-requirements.txt file contains all the major python pips and packages fo
 
 ---
 
-Author: Aarav [A-Solo-Engineer] | Forestritium
-Email: admin.forestritium@gmail.com
-Last Updated On: 14th May 2026
+- Author: Aarav [A-Solo-Engineer] | Forestritium
+- Email: admin.forestritium@gmail.com
+- Last Updated On: 14th May 2026
 
 ---
 
