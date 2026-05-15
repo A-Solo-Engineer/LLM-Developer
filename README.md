@@ -14,7 +14,7 @@ A lightweight software to train, finetune, and test a small Language Model (LLM)
 
 1. Clone or download this repository.
 2. Open a terminal in the project folder.
-3. Create a virtual environment (optional but recommended):
+3. Create a virtual environment:
 
    ```bash
    python -m venv .venv
