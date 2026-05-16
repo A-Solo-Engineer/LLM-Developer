@@ -1,5 +1,5 @@
 """
-Logging system for LLM Developer Studio
+Logging system for LLM Developer 
 
 Provides training progress logging, error/warning tracking, and performance metrics recording.
 """
@@ -12,7 +12,7 @@ from pathlib import Path
 
 
 class FormattedLogger:
-    """Custom logger with formatted output for LLM Developer Studio"""
+    """Custom logger with formatted output for LLM Developer"""
     
     def __init__(self, name: str, log_dir: str = 'logs'):
         self.log_dir = Path(log_dir)

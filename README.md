@@ -1,8 +1,8 @@
-# LLM Developer Studio v1.0.0 (Beta)
+# LLM Developer v1.0.0 (Beta)
 
 A lightweight software to train, finetune, and test a small Language Model (LLM) on your local CPU. No heavy GPUs required!
 
-> **Note**: This is the beta version of LLM Developer Studio. The production-grade version will be released on June 17th, 2026.
+> **Note**: This is the beta version of LLM Developer. The production-grade version will be released on June 17th, 2026.
 
 ## Prerequisites
 
@@ -40,7 +40,7 @@ A lightweight software to train, finetune, and test a small Language Model (LLM)
 
 ## How it Works
 
-LLM Developer Studio provides a complete pipeline for language model development:
+LLM Developer provides a complete pipeline for language model development:
 
 1. **Data Preparation**: Parse and tokenize custom training data
 2. **Model Training**: Train a GPT-based language model with adjustable hyperparameters

@@ -1,5 +1,5 @@
 """
-Unit tests for LLM Developer Studio
+Unit tests for LLM Developer 
 
 Tests for core functionality including tokenizer, training loop, and model I/O.
 """

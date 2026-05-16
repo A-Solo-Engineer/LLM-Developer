@@ -1,5 +1,5 @@
 """
-Configuration Management for LLM Developer Studio
+Configuration Management for LLM Developer 
 
 Centralized configuration with presets for different use cases.
 Supports device detection, batch/block size recommendations, and hyperparameter presets.

@@ -1,3 +1,3 @@
 """
-LLM Developer Studio tests package
+LLM Developer tests package
 """

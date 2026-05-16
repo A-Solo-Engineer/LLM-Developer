@@ -244,8 +244,8 @@ st.markdown(theme_css, unsafe_allow_html=True)
 
 # Sidebar with logo and status
 with st.sidebar:
-    st.image("Images/Logo.png", width=100)
-    st.title("LLM Studio")
+    st.image("Images/Logo.png", width=150)
+    st.title("LLM Developer")
     st.markdown("---")
     
     # Here was st.markdown
@@ -273,10 +273,10 @@ with st.sidebar:
         st.info("No saved trained models found. Train and save a model to see it here.")
 
     st.markdown("---")
-    st.caption("v1.0.0 | Built by Forestritium")
+    st.caption("v1.0.0 [Beta] | Forestritium ")
 
-st.title("🚀 LLM Developer Studio")
-st.markdown("### Democratizing Artificial Intelligence")
+st.title("LLM Developer")
+st.markdown("### Democratizing Language Models")
 
 # Session State for Model and Tokenizer
 if 'model' not in st.session_state:
