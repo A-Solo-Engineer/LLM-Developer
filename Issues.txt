@@ -1,7 +1,9 @@
 
 Date: 15th May 2026
-Issues: The prebuilt models are missing from the repository.
+Issue(s): The prebuilt models are missing from the repository.
 Reason: The safetensors of these models are too big to be commited in github so I was not able to commit those two models.
-How to fix this: I will add a script that will run automatically when the user runs app.py. This script will check if the models are available in the directory. If the models are not installed or visible in the directory, the script will install them from hugging faces.
+Changes required: I will add a script that will run automatically when the user runs app.py. This script will check if the models are available in the directory. If the models are not installed or visible in the directory, the script will install them from hugging faces.
 Estimated time: 1-2 weeks [including the testing of the script and maintaing the stability of the software.]
 Issue found by: Aarav [https://github.com/A-Solo-Engineer]
+Date the issue was fixed on: 16th May 2026 [Completed under the estimated time]
+
