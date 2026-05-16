@@ -1,0 +1,9 @@
+pytest==8.2.0        # Testing framework
+pytest-cov==5.0.0    # Code coverage reports
+black==24.4.2        # Code formatter
+flake8==7.1.0        # Linting
+mypy==1.10.0         # Static type checking
+isort==5.13.2        # Import sorting
+pre-commit==3.7.0    # Manage git hooks
+ipython==8.25.0      # Interactive shell for debugging
+jupyter==1.0.0       # Notebook environment (optional)

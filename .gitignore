@@ -1,0 +1,57 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore everything inside the logs folder, but keep the folder
+logs/*
+!logs/
+
+# Model artifacts and saved training state
+model.pt
+tokenizer.pkl
+model_metadata.json
+saved_models/
+
+# Environment files
+.env
+.env.*
+
+# Coverage and test reports
+.coverage
+htmlcov/
+.pytest_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Other temporary files
+*.tmp
+*.bak
+*.orig
+
+# Development phase files
+PHASE1_REPORT.md
+PHASE2_REPORT.md
+PHASE3_PLAN.md
+
+# Ignore everything inside the prebuilt/models folder
+prebuilt/models/*
+
+# Do not ignore the models folder itself
+!prebuilt/models/
