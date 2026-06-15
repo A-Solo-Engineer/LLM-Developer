@@ -1,8 +1,7 @@
-# LLM Developer v1.0.0 (Beta)
+# LLM Developer v1.0.0
 
 A lightweight software to train, finetune, and test a small Language Model (LLM) on your local CPU. No heavy GPUs required!
 
-> **Note**: This is the beta version of LLM Developer. The production-grade version will be released on June 17th, 2026.
 
 ## Prerequisites
 
@@ -160,8 +159,8 @@ The dev-requirements.txt file contains all the major python pips and packages fo
 
 Author: Aarav [A-Solo-Engineer] | Forestritium
 Email: admin.forestritium@gmail.com
-Last Updated On: 14th May 2026
+Last Updated On: 15th June 2026
 
 ---
 
-# PRODUCTION GRADE [v1.0.0] VERSION COMING SOON!
+
